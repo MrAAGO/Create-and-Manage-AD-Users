@@ -51,7 +51,7 @@ On the Properties page, you can specify additional information for the user, suc
 
 Now we sucessfully create users and also include some information about the users.
 
-Now we are going to create bluck users.
+<h2> <b> Now we are going to create bluck users.</b></h2>
 
 First of all you have to create csv file and also create a powershell script for creating users.
 
