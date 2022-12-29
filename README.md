@@ -51,7 +51,7 @@
 
 <p1><b>Now we sucessfully create users and also include some information about the users.</b></p1>
 
-<h2> <b> Now we are going to create bluck users.</b></h2>
+<h2> <b> Now we are going to create bluck users using POWERSHELL.</b></h2>
 
 <p1><b>First of all you have to create csv file and also create a powershell script for creating users.</b></p1>
 
